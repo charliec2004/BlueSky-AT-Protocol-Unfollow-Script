@@ -2,7 +2,7 @@
 
 <p>This simple script allows you to input your handle and an app password generated from your AT protocol account to then unfollow **everyone** you follow</p>
 
-<h3>Useage</h3>
+<h3>Usage</h3>
 <p>
   <ul>
   <li> Add your details to the .env file </li>
